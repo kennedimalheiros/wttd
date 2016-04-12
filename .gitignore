@@ -6,3 +6,4 @@
 *.sqlite3
 *.pyc
 __pycacher__
+staticfiles
